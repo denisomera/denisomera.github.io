@@ -14,8 +14,8 @@
 
 #sideNav h4 {
     font-family: 'Montserrat', sans-serif;
-    color: Moccasin;
-    font-size: 1.75em;
+    color: #ffef9b;
+    font-size: 1.50em;
     font-style: italic;
 }
 
@@ -60,7 +60,8 @@ img {
     font-family: 'Lato', sans-serif;
     text-align: center;
     padding-left: 0;
-    font-size: 1em;
+    font-size: 0.90em;
+    color: navajowhite;
     
 }
 
