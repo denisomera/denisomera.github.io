@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800i&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800i&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Abel&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+#sideNav {
+    background: darkred;
+    text-align: center;
+    height: 100vh;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+       }
+
+#sideNav h4 {
+    font-family: 'Montserrat', sans-serif;
+    color: Moccasin;
+    font-size: 1.75em;
+    font-style: italic;
+}
+
+#MainContent {
+    background: Moccasin;
+    padding-top: 1rem;
+    padding-left: 27rem;
+    font-size: 1.25em;
+}
+
+#MainContent h4 {
+    font-family: 'Montserrat', sans-serif;
+    color: darkblue;
+    font-size: 3em;
+    font-style: italic;
+}
+
+#MainContent h6 {
+    font-family: 'Lato';
+    font-size: 1em;
+    padding-left: 10;
+}
+
+
+
+#MainContent h5 {
+    color: navy
+}
+
+.resume-header {
+    padding-top: 5
+}
+
+img {
+    padding-top: 20;
+    padding-bottom: 20;
+    border-radius: 50%;
+}
+
+#sideNav ul {
+    list-style: none;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    padding-left: 0;
+    font-size: 1em;
+    
+}
+
+.resume-cont b {
+    color: darkred
+}
+
+hr {
+    border-top: 2px dashed white;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    padding-left: 10;
+
+}
